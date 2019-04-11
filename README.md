@@ -1,4 +1,9 @@
 # MVAI
 > AI applications on malaria vector control.
 
-## 1.	Strengthening Surveillance System
+## Possible Applications
+1.	Strengthening Surveillance System
+
+## Papers
+## News
+
