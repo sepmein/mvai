@@ -1,12 +1,24 @@
 # MVAI
 > AI applications on malaria vector control.
 
+Catalog
+Possible Applications
+Papers
+News
+
 ## Possible Applications
 ### 1. Strengthening Surveillance System
 #### 1.1. Automated Adult Mosquito Identification
 ##### 1.1.1. Why?
 ##### 1.1.2. How?
 ###### 1.1.2.1. Methods
+Building AI model
+
+Model Selection
+Model Initialization
+Model Training
+Model Evaluation
+Prediction
 ###### 1.1.2.2. Tools
 Artficial Intelligence(model building, training, evaluation):
 - [Google Tensorflow](https://tensorflow.org)
