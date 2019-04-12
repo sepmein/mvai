@@ -10,28 +10,42 @@ Papers
 News
 
 ## Possible Applications
+
 ### 1. Strengthening Surveillance System
+
 #### 1.1. Automated Adult Mosquito Identification
+
 ##### 1.1.1. Why?
+
 ###### Benifits
-- Reducing the cost of the global entomological surveillance network
+- Reducing the overall cost of the global entomological surveillance network
+**Conducting entomological surveillance often require trained entomologist.** And training a quanlified entomologist require vast amount of investment. 
+
 - Improving data quality
 
 ###### Comparing to Average Human Performance
+
 ###### Comparing to Experts Performance
+
 ##### 1.1.2. How to do?
+
 ###### Data Collection
+
 ###### Model -> Performance -> Data -> Model cycle
+
 ###### Builing a new data Cooperation mechanism in the AI era
 - AI needs a large amount of data
 - It's unfeasible for one organization to gather all the 
 
 ###### Overall costs for the project
+
 ###### Cost Efficiency
+
 ###### Possible ways to reduce the cost of building this identification model
 Transfer Learning
 
 ##### 1.1.3. What to do?
+
 ###### 1.1.3.1. Methods
 Building AI model
 Model Selection
