@@ -31,15 +31,20 @@ Artficial Intelligence(model building, training, evaluation):
 - [Google Tensorflow](https://tensorflow.org)
 - [Facebook Pytorch](https://pytorch.org)
 - [Keras](https://keras.io)
+
 Matrix Manipulation
 - [numpy](http://www.numpy.org)
+
 Data preprocessing
 - [pandas](https://pandas.pydata.org/)
 - [scipy](https://www.scipy.org/)
+
 Data Visualization
 - [Matplotlib](https://matplotlib.org)
+
 Coding Languague
 - [Python](http://python.org)
+
 ###### 1.1.3.3. Hardware
 Core 
 #### 1.2. Automated Larvae Identification
