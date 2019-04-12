@@ -1,9 +1,12 @@
 # MVAI
 > AI applications on malaria vector control.
-
+> This 
 Catalog
+
 Possible Applications
+
 Papers
+
 News
 
 ## Possible Applications
@@ -14,7 +17,6 @@ News
 - Reducing the cost of the global entomological surveillance network
 - Improving data quality
 
-###### Cost Efficiency
 ###### Comparing to Average Human Performance
 ###### Comparing to Experts Performance
 ##### 1.1.2. How to do?
@@ -25,7 +27,7 @@ News
 - It's unfeasible for one organization to gather all the 
 
 ###### Overall costs for the project
-
+###### Cost Efficiency
 ###### Possible ways to reduce the cost of building this identification model
 Transfer Learning
 
