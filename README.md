@@ -14,17 +14,24 @@ News
 ### 1. Strengthening Surveillance System
 
 #### 1.1. Automated Adult Mosquito Identification
+picture -> model -> results
 
 ##### 1.1.1. Why?
+###### Importance of entomological surveillance network
+Differences of different mosquitos
+Differences in density, resistance, ability to transimit malaria
 
 ###### Benifits
 - Reducing the overall cost of the global entomological surveillance network
 **Conducting entomological surveillance often require trained entomologist.** And training a quanlified entomologist require vast amount of investment. 
+Coverage of the entomological surveillance network.
 
 - Improving data quality
 With the accumulation of vector images, the performance of AI model will gradually increase. Finally, it could approach human expert level. The performance of the final model would 
 artificial intelligence program can do it more reliably than most humans.
 
+- Improving data feasibility
+By providing prediction services to the world, model provider could collect more and more vector pictures. More pictures could increase the precision of the model.
 quickly, cheaply and accurately.
 
 ###### Comparing to Average Human Performance
@@ -35,6 +42,9 @@ Will surpass average human performance.
 ##### 1.1.2. How to do?
 
 ###### Data Collection
+Using current entomological network
+*the current situation of the surveillance networ globally*
+
 Mosquito surveillance network
 Collect mosquito
 Photograph the mosquito
@@ -58,11 +68,20 @@ Transfer Learning
 
 ###### 1.1.3.1. Methods
 Building AI model
+Concurrent neural network(CNN) model was been proven the best model to identify image. 
+
 Model Selection
+
 Model Initialization
+
+
 Model Training
+Machine learning, gradient descent
+
 Model Evaluation
+
 Prediction
+
 ###### 1.1.3.2. Tools
 Artficial Intelligence(model building, training, evaluation):
 - [Google Tensorflow](https://tensorflow.org)
