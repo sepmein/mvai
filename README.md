@@ -22,14 +22,24 @@ News
 **Conducting entomological surveillance often require trained entomologist.** And training a quanlified entomologist require vast amount of investment. 
 
 - Improving data quality
+With the accumulation of vector images, the performance of AI model will gradually increase. Finally, it could approach human expert level. The performance of the final model would 
+artificial intelligence program can do it more reliably than most humans.
+
+quickly, cheaply and accurately.
 
 ###### Comparing to Average Human Performance
+Will surpass average human performance.
 
 ###### Comparing to Experts Performance
 
 ##### 1.1.2. How to do?
 
 ###### Data Collection
+Mosquito surveillance network
+Collect mosquito
+Photograph the mosquito
+Upload to the database
+Idenfitification by the Experts
 
 ###### Model -> Performance -> Data -> Model cycle
 
