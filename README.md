@@ -20,7 +20,12 @@
 ### 1. Strengthening Surveillance System
 
 #### 1.1. Automated Adult Mosquito Identification
-picture -> model -> results
+mosquito image(s) -> identification model -> results
+
+Based on the mosquito image(s) given by the user, the online identification model would give the result of classification of the image and the confidence of the results.
+
+Example:
+![Image of the model example](https://github.com/sepmein/mvai/blob/master/mosquito_identification_example.jpg?raw=true)
 
 ##### 1.1.1. Why?
 
