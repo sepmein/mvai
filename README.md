@@ -1,8 +1,12 @@
 # MVAI
 > AI applications on malaria vector control.
+
 > This project provides several proposals for the application of artificial intelligence technology in the malaria control. 
+
 > The document is written in [markdown](https://daringfireball.net/projects/markdown/syntax) syntax.
+
 > This project is currently been actively updated. To check current status, please check the insight tab.
+
 
 ## Table of Content
 [Possible Applications](#Possible-Applications)
