@@ -20,6 +20,10 @@
 ### 1. Strengthening Surveillance System
 
 #### 1.1. Automated Adult Mosquito Identification
+
+Mosquitoes transmit malaria, yellow fever, dengue and encephalitis.
+
+Building an AI model that could identified mosquito species automated
 mosquito image(s) -> identification model -> results
 
 Based on the mosquito image(s) given by the user, the online identification model would give the result of classification of the image and the confidence of the results.
@@ -28,18 +32,19 @@ Example:
 
 ![Image of the model example](https://github.com/sepmein/mvai/blob/master/mosquito_identification_example.jpg?raw=true)
 
+
 ##### 1.1.1. Why?
 
 ###### Benefits
 - Reducing the overall cost of the global entomological surveillance network
 
-**Conducting entomological surveillance often require trained entomologist.** And training a qualified entomologist require vast amount of investment. The lack of entomologist restrained the ability of the surveillance network to achieve a higher coverage. 
+    **Conducting entomological surveillance often require trained entomologist.** And training a qualified entomologist require vast amount of investment. The lack of entomologist restrained the ability of the surveillance network to achieve a higher coverage. 
 
-By automating the identification process, AI could make the surveillance much more easier to implement. The cost of training and salary could be reduced.
+    By automating the identification process, AI could make the surveillance much more easier to implement. The cost of training and salary could be reduced.
 
 - Improving data quality
 
-    The ability of entomologist varies.
+    The ability of entomologist varies. Automating the process with an intelligent model can alleviate the shortfall of trained personnel in under-resourced countries.
 
     With the accumulation of vector images, the performance of AI model will gradually increase. Finally, it could approach human expert level. The performance of the final model would 
     
@@ -47,7 +52,7 @@ By automating the identification process, AI could make the surveillance much mo
 
 - Improving data feasibility
 
-By providing prediction services to the world, model provider could collect more and more vector pictures. More pictures could increase the precision of the model.
+    By providing prediction services to the world, model provider could collect more and more vector pictures. More pictures could increase the precision of the model.
 
 Quickly, cheaply and accurately.
 
