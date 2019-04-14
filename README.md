@@ -57,7 +57,7 @@ Will surpass average human performance.
 
 ###### Data Collection
 Using current entomological network
-*the current situation of the surveillance networ globally*
+*the current situation of the surveillance network globally*
 
 Mosquito surveillance network
 Collect mosquito
