@@ -32,14 +32,21 @@ Example:
 
 ###### Benefits
 - Reducing the overall cost of the global entomological surveillance network
-**Conducting entomological surveillance often require trained entomologist.** And training a qualified entomologist require vast amount of investment. 
-Coverage of the entomological surveillance network.
+
+**Conducting entomological surveillance often require trained entomologist.** And training a qualified entomologist require vast amount of investment. The lack of entomologist restrained the ability of the surveillance network to achieve a higher coverage. 
+
+By automating the identification process, AI could make the surveillance much more easier to implement. The cost of training and salary could be reduced.
 
 - Improving data quality
-With the accumulation of vector images, the performance of AI model will gradually increase. Finally, it could approach human expert level. The performance of the final model would 
-artificial intelligence program can do it more reliably than most humans.
+
+    The ability of entomologist varies.
+
+    With the accumulation of vector images, the performance of AI model will gradually increase. Finally, it could approach human expert level. The performance of the final model would 
+    
+    artificial intelligence program can do it more reliably than most humans.
 
 - Improving data feasibility
+
 By providing prediction services to the world, model provider could collect more and more vector pictures. More pictures could increase the precision of the model.
 
 Quickly, cheaply and accurately.
@@ -57,7 +64,7 @@ Will surpass average human performance.
 
 ###### Data Collection
 Using current entomological network
-*the current situation of the surveillance networ globally*
+*the current situation of the surveillance network globally*
 
 Mosquito surveillance network
 Collect mosquito
@@ -97,7 +104,7 @@ Model Evaluation
 Prediction
 
 ###### 1.1.3.2. Tools
-Artficial Intelligence(model building, training, evaluation):
+Artificial Intelligence(model building, training, evaluation):
 - [Google Tensorflow](https://tensorflow.org)
 - [Facebook Pytorch](https://pytorch.org)
 - [Keras](https://keras.io)
@@ -112,7 +119,7 @@ Data preprocessing
 Data Visualization
 - [Matplotlib](https://matplotlib.org)
 
-Coding Languague
+Coding Language
 - [Python](http://python.org)
 
 ###### 1.1.3.3. Hardware
@@ -127,4 +134,3 @@ TODO
 TODO
 ## News
 TODO
-
