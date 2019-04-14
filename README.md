@@ -17,9 +17,6 @@ News
 picture -> model -> results
 
 ##### 1.1.1. Why?
-###### Importance of entomological surveillance network
-Differences of different mosquitos
-Differences in density, resistance, ability to transimit malaria
 
 ###### Benifits
 - Reducing the overall cost of the global entomological surveillance network
@@ -33,6 +30,10 @@ artificial intelligence program can do it more reliably than most humans.
 - Improving data feasibility
 By providing prediction services to the world, model provider could collect more and more vector pictures. More pictures could increase the precision of the model.
 quickly, cheaply and accurately.
+
+###### Importance of entomological surveillance network
+Differences of different mosquitos
+Differences in density, resistance, ability to transimit malaria
 
 ###### Comparing to Average Human Performance
 Will surpass average human performance.
