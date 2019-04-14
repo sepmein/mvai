@@ -1,6 +1,6 @@
 # MVAI
 > AI applications on malaria vector control.
-> This 
+> This project provides several proposals for the application of artificial intelligence technology in the malaria control. 
 Catalog
 
 Possible Applications
@@ -20,7 +20,7 @@ picture -> model -> results
 
 ###### Benefits
 - Reducing the overall cost of the global entomological surveillance network
-**Conducting entomological surveillance often require trained entomologist.** And training a quanlified entomologist require vast amount of investment. 
+**Conducting entomological surveillance often require trained entomologist.** And training a qualified entomologist require vast amount of investment. 
 Coverage of the entomological surveillance network.
 
 - Improving data quality
@@ -29,11 +29,12 @@ artificial intelligence program can do it more reliably than most humans.
 
 - Improving data feasibility
 By providing prediction services to the world, model provider could collect more and more vector pictures. More pictures could increase the precision of the model.
-quickly, cheaply and accurately.
+
+Quickly, cheaply and accurately.
 
 ###### Importance of entomological surveillance network
-Differences of different mosquitos
-Differences in density, resistance, ability to transimit malaria
+Differences of different mosquitoes
+Differences in density, resistance, ability to transmit malaria
 
 ###### Comparing to Average Human Performance
 Will surpass average human performance.
