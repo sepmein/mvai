@@ -18,7 +18,7 @@ picture -> model -> results
 
 ##### 1.1.1. Why?
 
-###### Benifits
+###### Benefits
 - Reducing the overall cost of the global entomological surveillance network
 **Conducting entomological surveillance often require trained entomologist.** And training a quanlified entomologist require vast amount of investment. 
 Coverage of the entomological surveillance network.
@@ -50,11 +50,11 @@ Mosquito surveillance network
 Collect mosquito
 Photograph the mosquito
 Upload to the database
-Idenfitification by the Experts
+Identification by the Experts
 
 ###### Model -> Performance -> Data -> Model cycle
 
-###### Builing a new data Cooperation mechanism in the AI era
+###### Building a new data Cooperation mechanism in the AI era
 - AI needs a large amount of data
 - It's unfeasible for one organization to gather all the 
 
