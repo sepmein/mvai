@@ -15,20 +15,29 @@
 
 [News](#News)
 
+[Projects](#Repositories)
+
 ## Possible Applications
 
 ### 1. Strengthening Surveillance System
 
 #### 1.1. Automated Adult Mosquito Identification
 
+In 2012, one concurrent neural network(CNN) model called AlexNet achieved 15.3% error rate(26.2%, second place) in the [ImageNet](http://image-net.org) challenge. Imagenet challenge is a challenge for the computer algorithm to classify on 14M images on 1000 categories. 
+
+AlexNet was a huge success on the computer vision. Since then, the accuracy of CNN models(GoogleNet, ResNet, SENet) gradually increased, and surpassed the average human levels(2.25% error rate, 2017).
+
 Mosquitoes transmit malaria, yellow fever, dengue and encephalitis.
 
-Building an AI model that could identified mosquito species automated
-mosquito image(s) -> identification model -> results
+Current identification net
+
+By using CNN models, it's possible to create a web service that could automatedly differentiate different species of mosquitoes.
 
 Based on the mosquito image(s) given by the user, the online identification model would give the result of classification of the image and the confidence of the results.
 
-Example:
+mosquito image(s) -> identification model -> results
+
+For example:
 
 ![Image of the model example](https://github.com/sepmein/mvai/blob/master/mosquito_identification_example.jpg?raw=true)
 
@@ -93,20 +102,26 @@ Transfer Learning
 ##### 1.1.3. What to do?
 
 ###### 1.1.3.1. Methods
-Building AI model
-Concurrent neural network(CNN) model was been proven the best model to identify image. 
+1.1.3.1.0. Data preprocessing
 
-Model Selection
+- Data Augmentation
+- Transform images to data
 
-Model Initialization
+1.1.3.1.1. Building AI model
 
+Concurrent neural network(CNN) model was been proven the best model to identify image. The model could  
 
-Model Training
+1.1.3.1.2. Model Selection
+
+1.1.3.1.3. Model Initialization
+
+1.1.3.1.4. Model Training
+
 Machine learning, gradient descent
 
-Model Evaluation
+1.1.3.1.5. Model Evaluation
 
-Prediction
+1.1.3.1.6. Prediction
 
 ###### 1.1.3.2. Tools
 Artificial Intelligence(model building, training, evaluation):
@@ -128,7 +143,13 @@ Coding Language
 - [Python](http://python.org)
 
 ###### 1.1.3.3. Hardware
-Core 
+GPU
+
+CPU
+
+Server
+
+Hard Drive
 #### 1.2. Automated Larvae Identification
 TODO
 ### 2. Supporting Policy Making 
@@ -139,3 +160,11 @@ TODO
 TODO
 ## News
 TODO
+
+AI model 
+https://futurism.com/the-byte/debug-project-ai-mosquitoes
+
+## Repositories
+
+Mosquito classifier 55.3% accuracy in distinguishing *Culex*, *Aedes*, *Anopheles*
+https://github.com/ultimatepritam/mosquito_classifier
