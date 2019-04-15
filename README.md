@@ -23,28 +23,24 @@
 
 #### 1.1. Automated Adult Mosquito Identification
 
-In 2012, one concurrent neural network(CNN) model called AlexNet achieved 15.3% error rate(26.2%, second place) in the [ImageNet](http://image-net.org) challenge. Imagenet challenge is a challenge for the computer algorithm to classify on 14M images on 1000 categories. 
+Deep-learning software uses artificial neural networks mimicking the brain to allow computers to recognize abstract patterns. In 2012, one concurrent neural network(CNN) model called AlexNet achieved 15.3% error rate(26.2%, second place) in the [ImageNet](http://image-net.org) challenge. ImageNet challenge is a challenge for the computer algorithm to classify on 14M images on 1000 categories. AlexNet was a huge success on the computer vision. Since then, the accuracy of CNN models(GoogleNet, ResNet, SENet) gradually increased, and surpassed the average human levels(2.25% error rate, 2017).
 
-AlexNet was a huge success on the computer vision. Since then, the accuracy of CNN models(GoogleNet, ResNet, SENet) gradually increased, and surpassed the average human levels(2.25% error rate, 2017).
+Mosquitoes transmit malaria, yellow fever, dengue and encephalitis. The mosquito entomology surveillance required trained entomologist to identify the mosquito species. The microscopy currently used to quantify the parasites requires well-trained entomologists, and many malaria-prone areas don’t have enough of those, or the resources to train new ones. 
 
-Mosquitoes transmit malaria, yellow fever, dengue and encephalitis.
+By using CNN models, it's possible to create a web service that could automatically differentiate different species of mosquitoes. Based on the mosquito image(s) given by the user, the online identification model would give the result of classification of the image and the confidence of the results. So anyone that could access to the internet could take pictures of the mosquitoes that transmit malaria and send the photo to the web service and get the identification result.
 
-Current identification net
+In the future, it's possible to create a off-line version of these online service.
 
-By using CNN models, it's possible to create a web service that could automatedly differentiate different species of mosquitoes.
-
-Based on the mosquito image(s) given by the user, the online identification model would give the result of classification of the image and the confidence of the results.
-
-mosquito image(s) -> identification model -> results
+Mosquito image(s) -> Identification model -> Results
 
 For example:
 
 ![Image of the model example](https://github.com/sepmein/mvai/blob/master/mosquito_identification_example.jpg?raw=true)
 
-
 ##### 1.1.1. Why?
 
 ###### Benefits
+>Quickly, cheaply and accurately.
 - Reducing the overall cost of the global entomological surveillance network
 
     **Conducting entomological surveillance often require trained entomologist.** And training a qualified entomologist require vast amount of investment. The lack of entomologist restrained the ability of the surveillance network to achieve a higher coverage. 
@@ -59,11 +55,10 @@ For example:
     
     artificial intelligence program can do it more reliably than most humans.
 
-- Improving data feasibility
+- Gather more data
 
-    By providing prediction services to the world, model provider could collect more and more vector pictures. More pictures could increase the precision of the model.
+    Data is resource in the future. By providing online prediction services globally, model provider could collect more and more vector pictures. More pictures could increase the precision of the model.
 
-Quickly, cheaply and accurately.
 
 ###### Importance of entomological surveillance network
 Differences of different mosquitoes
@@ -157,14 +152,19 @@ TODO
 ### 3. Development
 TODO
 ## Papers
-TODO
+Automated microscopy for routine malaria diagnosis: a field comparison on Giemsa-stained blood films in Peru
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6157053/
+
 ## News
-TODO
+Artificial Intelligence Offers a Better Way to Diagnose Malaria
+https://www.technologyreview.com/s/600779/artificial-intelligence-offers-a-better-way-to-diagnose-malaria/
 
 AI model 
 https://futurism.com/the-byte/debug-project-ai-mosquitoes
 
 ## Repositories
-
 Mosquito classifier 55.3% accuracy in distinguishing *Culex*, *Aedes*, *Anopheles*
 https://github.com/ultimatepritam/mosquito_classifier
+
+OpenMalaria - A simulator of malaria epidemiology and control
+https://github.com/SwissTPH/openmalaria
