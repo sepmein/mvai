@@ -1,4 +1,6 @@
 # MVAI
+Created by Spencer Zhang.
+Email: zhangchunzhe@scdc.sh.cn / sepmein@gmail.com
 > AI applications on malaria vector control.
 
 > This project provides several proposals for the application of artificial intelligence technology in the malaria control. 
