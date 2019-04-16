@@ -64,6 +64,7 @@ Will surpass average human performance.
 In the last few years, a lot more machine learning teams have been talking about comparing the machine learning systems to human level performance. Because of advances in deep learning, the algorithms are suddenly working much better and have become much more feasible in a lot of application areas for machine learning.
 
 Comparing to Experts Performance
+![human vs AI performance](https://github.com/sepmein/mvai/blob/master/AI%20vs%20human%20performance.jpg?raw=true)
 
 ##### 1.1.2. How to do?
 
