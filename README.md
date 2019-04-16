@@ -21,6 +21,8 @@ Email: zhangchunzhe@scdc.sh.cn / sepmein@gmail.com
 
 - [Projects](#Repositories)
 
+---
+
 ## Possible Applications
 
 ### 1. Strengthening Surveillance System
@@ -44,14 +46,13 @@ For example:
 #### 1.1.1. Why?
 
 ##### Benefits
->Quickly, cheaply and accurately.
-- Reducing the overall cost of the global entomological surveillance network
+- **Reducing the overall cost of the global entomological surveillance network**
 
     **Conducting entomological surveillance often require trained entomologist.** And training a qualified entomologist require vast amount of investment. The lack of entomologist restrained the ability of the surveillance network to achieve a higher coverage. 
 
     By automating the identification process, AI could make the surveillance much more easier to implement. The cost of training and salary could be reduced.
 
-- Improving data quality
+- **Improving data quality**
 
     The ability of entomologist varies. Automating the process with an intelligent model can alleviate the shortfall of trained personnel in under-resourced countries.
 
@@ -59,15 +60,15 @@ For example:
     
     artificial intelligence program can do it more reliably than most humans.
 
-- Gather more data
+- **Gather more data**
 
     Data is key resource in the future. By providing online prediction services globally, model provider could collect a great amount of vector pictures. More pictures could increase the precision of the model.
 
 ##### Comparing to Human Performance
-Will surpass average human performance.
 In the last few years, a lot more machine learning teams have been talking about comparing the machine learning systems to human level performance. Because of advances in deep learning, the algorithms are suddenly working much better and have become much more feasible in a lot of application areas for machine learning.
 
-Comparing to Experts Performance
+
+Figure 2 AI model accuracy vs human performance 
 ![human vs AI performance](https://github.com/sepmein/mvai/blob/master/AI%20vs%20human%20performance.jpg?raw=true)
 
 #### 1.1.2. How to do?
@@ -146,15 +147,30 @@ CPU
 Server
 
 Hard Drive
+
+---
+
 ### 1.2. Automated Larvae Identification
 TODO
+
+---
+
 ### 2. Supporting Policy Making 
 TODO
+
+---
+
 ### 3. Development
 TODO
+
+---
+
 ## Papers
 Automated microscopy for routine malaria diagnosis: a field comparison on Giemsa-stained blood films in Peru
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6157053/
+
+
+---
 
 ## News
 Artificial Intelligence Offers a Better Way to Diagnose Malaria
@@ -162,6 +178,9 @@ https://www.technologyreview.com/s/600779/artificial-intelligence-offers-a-bette
 
 AI model 
 https://futurism.com/the-byte/debug-project-ai-mosquitoes
+
+
+---
 
 ## Repositories
 Mosquito classifier 55.3% accuracy in distinguishing *Culex*, *Aedes*, *Anopheles*
