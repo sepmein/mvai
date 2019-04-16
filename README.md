@@ -57,17 +57,13 @@ For example:
 
 - Gather more data
 
-    Data is resource in the future. By providing online prediction services globally, model provider could collect more and more vector pictures. More pictures could increase the precision of the model.
+    Data is key resource in the future. By providing online prediction services globally, model provider could collect a great amount of vector pictures. More pictures could increase the precision of the model.
 
-
-###### Importance of entomological surveillance network
-Differences of different mosquitoes
-Differences in density, resistance, ability to transmit malaria
-
-###### Comparing to Average Human Performance
+###### Comparing to Human Performance
 Will surpass average human performance.
+In the last few years, a lot more machine learning teams have been talking about comparing the machine learning systems to human level performance. Because of advances in deep learning, the algorithms are suddenly working much better and have become much more feasible in a lot of application areas for machine learning.
 
-###### Comparing to Experts Performance
+Comparing to Experts Performance
 
 ##### 1.1.2. How to do?
 
