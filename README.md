@@ -9,7 +9,7 @@ Email: zhangchunzhe@scdc.sh.cn / sepmein@gmail.com
 
 > The document is written in [markdown](https://daringfireball.net/projects/markdown/syntax) syntax.
 
-> This project is currently been actively updated. To check current status, please check the insight tab.
+> This project is currently been actively updated. To check current status, please check the [insights](https://github.com/sepmein/mvai/pulse) tab.
 
 
 ## Table of Content
