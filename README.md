@@ -1,6 +1,8 @@
 # MVAI
 Created by Spencer Zhang.
+
 Email: zhangchunzhe@scdc.sh.cn / sepmein@gmail.com
+
 > AI applications on malaria vector control.
 
 > This project provides several proposals for the application of artificial intelligence technology in the malaria control. 
@@ -11,19 +13,19 @@ Email: zhangchunzhe@scdc.sh.cn / sepmein@gmail.com
 
 
 ## Table of Content
-[Possible Applications](#Possible-Applications)
+- [Possible Applications](#Possible-Applications)
 
-[Papers](#Papers)
+- [Papers](#Papers)
 
-[News](#News)
+- [News](#News)
 
-[Projects](#Repositories)
+- [Projects](#Repositories)
 
 ## Possible Applications
 
 ### 1. Strengthening Surveillance System
 
-#### 1.1. Automated Adult Mosquito Identification
+### 1.1. Automated Adult Mosquito Identification
 
 Deep-learning software uses artificial neural networks mimicking the brain to allow computers to recognize abstract patterns. In 2012, one concurrent neural network(CNN) model called AlexNet achieved 15.3% error rate(26.2%, second place) in the [ImageNet](http://image-net.org) challenge. ImageNet challenge is a challenge for the computer algorithm to classify on 14M images on 1000 categories. AlexNet was a huge success on the computer vision. Since then, the accuracy of CNN models(GoogleNet, ResNet, SENet) gradually increased, and surpassed the average human levels(2.25% error rate, 2017).
 
@@ -39,9 +41,9 @@ For example:
 
 ![Image of the model example](https://github.com/sepmein/mvai/blob/master/mosquito_identification_example.jpg?raw=true)
 
-##### 1.1.1. Why?
+#### 1.1.1. Why?
 
-###### Benefits
+##### Benefits
 >Quickly, cheaply and accurately.
 - Reducing the overall cost of the global entomological surveillance network
 
@@ -61,16 +63,16 @@ For example:
 
     Data is key resource in the future. By providing online prediction services globally, model provider could collect a great amount of vector pictures. More pictures could increase the precision of the model.
 
-###### Comparing to Human Performance
+##### Comparing to Human Performance
 Will surpass average human performance.
 In the last few years, a lot more machine learning teams have been talking about comparing the machine learning systems to human level performance. Because of advances in deep learning, the algorithms are suddenly working much better and have become much more feasible in a lot of application areas for machine learning.
 
 Comparing to Experts Performance
 ![human vs AI performance](https://github.com/sepmein/mvai/blob/master/AI%20vs%20human%20performance.jpg?raw=true)
 
-##### 1.1.2. How to do?
+#### 1.1.2. How to do?
 
-###### Data Collection
+##### Data Collection
 Using current entomological network
 *the current situation of the surveillance network globally*
 
@@ -80,22 +82,22 @@ Photograph the mosquito
 Upload to the database
 Identification by the Experts
 
-###### Model -> Performance -> Data -> Model cycle
+##### Model -> Performance -> Data -> Model cycle
 
-###### Building a new data Cooperation mechanism in the AI era
+##### Building a new data Cooperation mechanism in the AI era
 - AI needs a large amount of data
 - It's unfeasible for one organization to gather all the 
 
-###### Overall costs for the project
+##### Overall costs for the project
 
-###### Cost Efficiency
+##### Cost Efficiency
 
-###### Possible ways to reduce the cost of building this identification model
+##### Possible ways to reduce the cost of building this identification model
 Transfer Learning
 
-##### 1.1.3. What to do?
+#### 1.1.3. What to do?
 
-###### 1.1.3.1. Methods
+##### 1.1.3.1. Methods
 1.1.3.1.0. Data preprocessing
 
 - Data Augmentation
@@ -117,7 +119,7 @@ Machine learning, gradient descent
 
 1.1.3.1.6. Prediction
 
-###### 1.1.3.2. Tools
+##### 1.1.3.2. Tools
 Artificial Intelligence(model building, training, evaluation):
 - [Google Tensorflow](https://tensorflow.org)
 - [Facebook Pytorch](https://pytorch.org)
@@ -136,7 +138,7 @@ Data Visualization
 Coding Language
 - [Python](http://python.org)
 
-###### 1.1.3.3. Hardware
+##### 1.1.3.3. Hardware
 GPU
 
 CPU
@@ -144,7 +146,7 @@ CPU
 Server
 
 Hard Drive
-#### 1.2. Automated Larvae Identification
+### 1.2. Automated Larvae Identification
 TODO
 ### 2. Supporting Policy Making 
 TODO
