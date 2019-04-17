@@ -65,11 +65,12 @@ For example:
     Data is key resource in the future. By providing online prediction services globally, model provider could collect a great amount of vector pictures. More pictures could increase the precision of the model.
 
 ##### Comparing to Human Performance
+
 In the last few years, a lot more machine learning teams have been talking about comparing the machine learning systems to human level performance. Because of advances in deep learning, the algorithms are suddenly working much better and have become much more feasible in a lot of application areas for machine learning.
 
-
-Figure 2 AI model accuracy vs human performance 
 ![human vs AI performance](https://github.com/sepmein/mvai/blob/master/AI%20vs%20human%20performance.jpg?raw=true)
+
+*Figure 2 - AI model accuracy vs human performance*
 
 #### 1.1.2. How to do?
 
@@ -99,26 +100,25 @@ Transfer Learning
 #### 1.1.3. What to do?
 
 ##### 1.1.3.1. Methods
-1.1.3.1.0. Data preprocessing
-
+###### 1.1.3.1.0. Data preprocessing
 - Data Augmentation
 - Transform images to data
 
-1.1.3.1.1. Building AI model
+###### 1.1.3.1.1. Building AI model
 
 Concurrent neural network(CNN) model was been proven the best model to identify image. The model could  
 
-1.1.3.1.2. Model Selection
+###### 1.1.3.1.2. Model Selection
 
-1.1.3.1.3. Model Initialization
+###### 1.1.3.1.3. Model Initialization
 
-1.1.3.1.4. Model Training
+###### 1.1.3.1.4. Model Training
 
 Machine learning, gradient descent
 
-1.1.3.1.5. Model Evaluation
+###### 1.1.3.1.5. Model Evaluation
 
-1.1.3.1.6. Prediction
+###### 1.1.3.1.6. Prediction
 
 ##### 1.1.3.2. Tools
 Artificial Intelligence(model building, training, evaluation):
