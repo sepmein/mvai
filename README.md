@@ -58,7 +58,7 @@ For example:
 
     With the accumulation of vector images, the performance of AI model will gradually increase. Finally, it could approach human expert level. The performance of the final model would 
     
-    artificial intelligence program can do it more reliably than most humans.
+    Artificial intelligence program can do it more reliably than most humans.
 
 - **Gather more data**
 
@@ -100,11 +100,14 @@ Transfer Learning
 #### 1.1.3. What to do?
 
 ##### 1.1.3.1. Methods
-###### 1.1.3.1.0. Data preprocessing
-- Data Augmentation
-- Transform images to data
+Building an effective neural network model requires careful consideration of the network architecture as well as the input data format.
 
-###### 1.1.3.1.1. Building AI model
+###### 1.1.3.1.0. Data preprocessing
+Data Preprocessing is a technique that is used to convert the raw data into a clean data set. Pre-processing refers to the transformations applied to the images before feeding it to the algorithm. In other words, whenever the data is gathered from different sources it is collected in raw format which is not feasible for the analysis. 
+In the mosquito image classification problem, algorithms should **transform the image to matrices**. The most common image data input parameters are the number of images, image height, image width, number of channels, and the number of levels per pixel. Typically we have 3 channels of data corresponding to the colors Red, Green, Blue (RGB) Pixel levels are usually [0,255].
+- Data Augmentation
+
+###### 1.1.3.1.1. Building AI Model
 
 Concurrent neural network(CNN) model was been proven the best model to identify image. The model could  
 
